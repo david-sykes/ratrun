@@ -6,7 +6,7 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-jupyterlab = "==2.0.0"
+jupyterlab = "==2.2.10"
 pandas = "*"
 ipywidgets = "*"
 gmaps = "==0.8.0"
